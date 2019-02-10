@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\modules",
+    "\\client\\modules\\App",
+    "\\client\\modules\\App\\components",
+    "\\client\\modules\\Auth",
+    "\\client\\modules\\Auth\\pages",
+    "\\client\\modules\\Auth\\pages\\AuthMiniPage",
+    "\\client\\modules\\Auth\\pages\\AuthRegisterPage",
+    "\\client\\modules\\Post",
+    "\\client\\modules\\Post\\pages",
+    "\\client\\modules\\Post\\pages\\PostDetailPage",
+    "\\client\\modules\\Post\\pages\\PostListPage",
+    "\\Intl"
+  ],
+  "SelectedNode": "\\client\\modules\\Post\\components\\PostCreateWidget\\PostCreateWidget.css",
+  "PreviewInSolutionExplorer": false
+}
